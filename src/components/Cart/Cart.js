@@ -20,6 +20,7 @@ const Cart = (props) => {
     }
 
     let tax = (total / 10).toFixed(2);
+    const forma
 
     return (
         <div>
